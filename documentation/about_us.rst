@@ -22,7 +22,8 @@
 
 - 官网： http://www.embedfire.com
 - 论坛： http://www.firebbs.cn
-- github主页：https://github.com/Embdefire
+- 资料中心： http://doc.embedfire.com
+- github主页：https://github.com/Embedfire
 - gitee主页： https://gitee.com/wildfireteam
 - 淘宝： https://yehuosm.tmall.com
 - 邮箱： embedfire@embedfire.com
