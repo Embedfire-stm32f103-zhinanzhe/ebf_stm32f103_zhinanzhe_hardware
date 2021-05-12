@@ -24,7 +24,7 @@
 - 论坛： http://www.firebbs.cn
 - 资料中心： http://doc.embedfire.com
 - github主页：https://github.com/Embedfire
-- gitee主页： https://gitee.com/wildfireteam
+- gitee主页： https://gitee.com/Embedfire
 - 淘宝： https://yehuosm.tmall.com
 - 邮箱： embedfire@embedfire.com
 - 电话： 0769-33894118
